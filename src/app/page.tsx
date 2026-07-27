@@ -841,11 +841,23 @@ export default function Home() {
   </div>
 
 
-  <div>
-    <p>
-      © 2026
-    </p>
-  </div>
+<div className="text-right">
+  <p>
+    © 2026
+  </p>
+
+  <a
+    href="/impressum"
+    className="
+      mt-2
+      inline-block
+      hover:text-[#20334F]
+      transition-colors
+    "
+  >
+    Impressum
+  </a>
+</div>
 
 </footer>
 
