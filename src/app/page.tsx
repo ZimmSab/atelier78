@@ -782,7 +782,7 @@ export default function Home() {
           transition-colors
         "
       >
-        sabrina.zimmermann@atelier78.com
+        sabrina.zimmermann@atelier78.de
       </a>
 
     </div>
